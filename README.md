@@ -1,5 +1,5 @@
 # memorable
-> `Like a blog.`
+> `JUST LIKE A BLOG`
 
 ## Contribute
 [Guide](/CONTRIBUTE.md)
