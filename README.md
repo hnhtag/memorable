@@ -9,8 +9,8 @@
 - Blog
   - Posts
 - Roadmaps
-  - Web Developer Roadmap
-  - Vue Developer Roadmap
+  - [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+  - [Vue Developer Roadmap](https://github.com/marekbrainhub/vue-developer-roadmap)
  - [Links](LINKS.md)
 
 ## TODO
