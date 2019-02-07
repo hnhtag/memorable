@@ -9,6 +9,7 @@
 ## Web
 ### Vue.js
 - [XLSX and Vuejs](https://codepen.io/Event_Horizon/pen/WodMjp)
+- [How To Build A Simple Single Page Application Using Vue 2 (Part 1)](https://scotch.io/tutorials/how-to-build-a-simple-single-page-application-using-vue-2-part-1#toc-setting-up-our-routes)
 
 ## App
 
