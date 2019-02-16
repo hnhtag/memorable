@@ -24,3 +24,4 @@
 ## Other
 
 - [Burmese Font and Keyboard Installation for Ubuntu 14.04 LTS](http://naingyeminn.com/posts/burmese-keyboard-for-ubuntu-1404/)
+- [Aspect Ratio Calculator](https://calculateaspectratio.com/)
